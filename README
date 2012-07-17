@@ -1,0 +1,6 @@
+This will eventually evolve into a full-fledged log viewer for a directory
+structure full of IRC and possibly other types of chat logs.
+
+So far there's just a very minimal script that generates a single html page
+with a list of clickable URLs pulled from each file passed to it on the
+commandline.  It's useful, but there's more to come.
